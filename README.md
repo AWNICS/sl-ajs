@@ -1,4 +1,6 @@
 
+[![Stories in Ready](https://badge.waffle.io/AWNICS/sl-ajs.png?label=ready&title=Ready)](https://waffle.io/AWNICS/sl-ajs)
+
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/AWNICS/sl-ajs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 # slapp
