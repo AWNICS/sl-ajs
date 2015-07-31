@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/AWNICS/sl-ajs.png?label=ready&title=Ready)](https://waffle.io/AWNICS/sl-ajs)
 
 [![Stories in Ready](https://badge.waffle.io/AWNICS/sl-ajs.png?label=ready&title=Ready)](https://waffle.io/AWNICS/sl-ajs)
 
